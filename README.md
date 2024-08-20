@@ -57,7 +57,7 @@
   <li class="title"><span class="title">Sums of k-th Powers and Fourier Coefficients of Cusp forms.</span> Ramanujan J. (2023)</li>
   [<a href="https://people.math.osu.edu/wei.863/Papers/Sums of k-th Powers and Fourier Coefficients of Cusp forms.pdf">pdf</a>]
 
-  <li class="title"><span class="title">Linear Relations of Siegel Poincare Series and Nonvanshing of the Central Value of Spinor L-functions.</span>  J. Théor. Nombres Bordeaux. (2022)</li> 
+  <li class="title"><span class="title">Linear Relations of Siegel Poincare Series and Nonvanishing of the Central Value of Spinor L-functions.</span>  J. Théor. Nombres Bordeaux. (2022)</li> 
   [<a href="https://arxiv.org/pdf/2110.06254.pdf" style="text-decoration: none">arXiv</a>]
 
 
