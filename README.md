@@ -120,12 +120,12 @@
 
           <tbody>
             <tr><td colspan="2" valign="middle" class="td3"><p class="p2"><span class="s2">Zhining Wei</span></p></td></tr>
-            <tr><td colspan="2" valign="middle" class="td4"><p class="p3"><span class="s2"><a href="http://www.osu.edu/">The Ohio State University <span class="s3"></span></a></span></p></td></tr>
-            <tr><td colspan="2" valign="middle" class="td4"><p class="p3"><span class="s2"><a href="http://www.math.osu.edu/">Department of Mathematics <span class="s3"></span></a></span></p></td></tr>
-            <tr><td colspan="2" valign="middle" class="td5"><p class="p3"><span class="s2">Columbus, OH 43210</span></p></td></tr>
-            <tr><td valign="middle" class="td4"><p class="p3"><span class="s2">wei.863@buckeyemail.osu.edu</span></p></td></tr>
-            <tr><td valign="middle" class="td4"><p class="p3"><span class="s2">MA 438</span></p></td></tr>
-            <tr><td valign="middle" class="td4"><p class="p3"><span class="s2">I am a sixth year Ph. D. Student and my advisor is Professor <a href="https://people.math.osu.edu/luo.43/">Wenzhi Luo</a>.</span></p></td></tr>
+            <tr><td colspan="2" valign="middle" class="td4"><p class="p3"><span class="s2"><a href="http://www.brown.edu/">Brown University <span class="s3"></span></a></span></p></td></tr>
+            <tr><td colspan="2" valign="middle" class="td4"><p class="p3"><span class="s2"><a href="https://www.brown.edu/academics/math/">Department of Mathematics <span class="s3"></span></a></span></p></td></tr>
+            <tr><td colspan="2" valign="middle" class="td5"><p class="p3"><span class="s2">Providence, RI 02912</span></p></td></tr>
+            <tr><td valign="middle" class="td4"><p class="p3"><span class="s2">zhining_wei@bbrown.edu</span></p></td></tr>
+            <tr><td valign="middle" class="td4"><p class="p3"><span class="s2">Kassar House 014</span></p></td></tr>
+            <tr><td valign="middle" class="td4"><p class="p3"><span class="s2">In May 2023, I received my PhD under the supervision of Professor <a href="https://people.math.osu.edu/luo.43/">Wenzhi Luo</a> from The Ohio State University. I am currently a Tamarkin Assistant Professor at Brown University.</span></p></td></tr> 
             <tr><td valign="middle" class="td4"><p class="p3"><span class="s2">Here is my <a href="https://people.math.osu.edu/wei.863/CurriculumVitaeZhiningWei.pdf">CV</a> and <a href="https://people.math.osu.edu/wei.863/ResearchStatementZhiningWei.pdf">Research Statement</a>.</span></p></td></tr>
            </tbody>
 
