@@ -3,8 +3,6 @@
 
 <html><head>
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-JQYT632GPP"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-JQYT632GPP'); </script> <title>Zhining Wei</title> <style type="text/css" media="all"> div.block { padding: 0 2em 1ex 2em; line-height: 1.2em; } ul { margin: 0 0 0 1em; padding: 0; } .simplelist { padding: 0pt 5pt 0pt 0pt; list-style-type: none; margin: 0; } li.title { list-style-type: square; margin-top: 6px; } span.title { color: #008000; } li.journal { list-style-type: none; } li.pdf { font-size: 90%; list-style-type: none; } li.instructor { list-style-type: none; margin-top: 6px; } li.grading { list-style-type: none; margin-top: 6px; } .paper { font-style: italic; } .coauthor { font-variant: small-caps; } p.clear { margin: 0; padding: 0; clear: both; } #main { color: black; padding: 10pt 15pt 10pt 15pt; margin: 0pt; line-height: 1.2em; } #repseminar { background-color: lightsalmon; text-align: center; padding: 2pt 5pt 3pt 5px; margin: 0; border: thin red solid; line-height: 1em; width: 150px; height: 45px; color: black; } #conference { background-color: #6CC417; text-align: center; padding: 2pt 5pt 3pt 5px; margin: 0 10px 0 40px; border: thin #006600 solid; line-height: 1em; width: 150px; color: black; } a.ou { color: black; text-decoration: none; } a.ou:hover { color: black; text-decoration: underline; } </style>
 
 
