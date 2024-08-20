@@ -102,11 +102,12 @@
 
 <h2>Links</h2>
 <ul>
- 
+
+<li><a href="https://mathscinet.ams.org/mathscinet/publications-search">MathSciNet</a></li>
 <li><a href="http://www.numbertheory.org/">Number Theory Web</a></li>
 <li><a href="http://arxiv.org/list/math.NT/recent/">arXiv: Number Theory</a></li>
 <li><a href="https://research.math.osu.edu/numbertheory/number.php">OSU Number Theory Seminar</a></li>
-<li><a href="https://people.math.osu.edu/yan.669/ntstudentseminar">OSU Number Theory Student Seminar</a></li>
+
 
 </ul>
 
