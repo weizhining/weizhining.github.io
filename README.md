@@ -144,26 +144,40 @@
 
 <hr />
 
-<h3><b>Publications and Preprints</b></h3>
+
+<h3><b>Preprints </b></h3>
 <ul class="ul1">
 
-  <li class="title"><span class="title">The zero density theorem for the Rankin-Selberg L-function and its applications</span>  (2022)</li>
-  <li class="pdf"><a href="https://people.math.osu.edu/wei.863/Papers/The zero density theorem for the Rankin Selberg L function and its applications.pdf">pdf</a></li>
+ <li class="title"><span class="title">Some remarks on strong multiplicity one for paramodular forms </span>  (With Xiyuan Wang, Pan Yan and Shaoyun Yi) Submitted. (2023)</li>
+   [<a href="https://arxiv.org/pdf/2310.17144.pdf" style="text-decoration: none">arXiv</a>]
+  
+<li class="title"><span class="title">On distinguishing Siegel cusp forms of degree two</span>  (With Shaoyun Yi) Submitted. (2022)</li>
+  [<a href="https://arxiv.org/pdf/2207.13234.pdf" style="text-decoration: none">arXiv</a>]
 
-  <li class="title"><span class="title">The weak orthogonality between generalized Mobius functions and bounded sequences</span>  (With Shifan Zhao) To appear in Q. J. Math. (2022)</li>
+</ul>
+
+
+<h3><b>Publications </b></h3>
+<ul class="ul1">
+
+<li class="title"><span class="title">The weak orthogonality between generalized Mobius functions and bounded sequences</span>  (With Shifan Zhao) To appear in Q. J. Math. (2024)</li>
   <li class="pdf"><a href="https://people.math.osu.edu/wei.863/Papers/The weak orthogonality between generalized Mobius functions and bounded sequences.pdf">pdf</a></li>
+  [<a href="https://arxiv.org/pdf/2308.11114.pdf" style="text-decoration: none">arXiv</a>]
 
 
-  <li class="title"><span class="title">On distinguishing Siegel cusp forms of degree two</span>  (With Shaoyun Yi) Submitted. (2022)</li>
-  <li class="pdf"><a href="https://people.math.osu.edu/wei.863/Papers/On distinguishing Siegel cusp forms of degree two.pdf">pdf</a></li>
+  
+
+  <li class="title"><span class="title">The zero density theorem for the Rankin-Selberg L-function and its applications</span>  (2022)</li>
+  [<a href="https://arxiv.org/pdf/2209.03462.pdf" style="text-decoration: none">arXiv</a>]
 
   <li class="title"><span class="title">Generalizations of the Erd&#337s-Kac Theorem and the Prime Number Theorem</span> (with Biao Wang, Pan Yan and Shaoyun Yi) Submitted. (2022)</li>
-
+ 
 
   <li class="title"><span class="title">Sums of k-th Powers and Fourier Coefficients of Cusp forms.</span> Ramanujan J. (2023)</li>
   <li class="pdf"><a href="https://people.math.osu.edu/wei.863/Papers/Sums of k-th Powers and Fourier Coefficients of Cusp forms.pdf">pdf</a></li>
 
-  <li class="title"><span class="title">Linear Relations of Siegel Poincare Series and Nonvanshing of the Central Value of Spinor L-functions.</span>  J. Théor. Nombres Bordeaux. (2022)</li> [<a href="https://arxiv.org/pdf/2110.06254.pdf" style="text-decoration: none">arXiv</a>]
+  <li class="title"><span class="title">Linear Relations of Siegel Poincare Series and Nonvanshing of the Central Value of Spinor L-functions.</span>  J. Théor. Nombres Bordeaux. (2022)</li> 
+  [<a href="https://arxiv.org/pdf/2110.06254.pdf" style="text-decoration: none">arXiv</a>]
 
 
 
