@@ -150,7 +150,7 @@
   <li class="title"><span class="title">The zero density theorem for the Rankin-Selberg L-function and its applications</span>  (2022)</li>
   <li class="pdf"><a href="https://people.math.osu.edu/wei.863/Papers/The zero density theorem for the Rankin Selberg L function and its applications.pdf">pdf</a></li>
 
-  <li class="title"><span class="title">The weak orthogonality between generalized Mobius functions and bounded sequences</span>  (With Shifan Zhao) (2022)</li>
+  <li class="title"><span class="title">The weak orthogonality between generalized Mobius functions and bounded sequences</span>  (With Shifan Zhao) To appear in Q. J. Math. (2022)</li>
   <li class="pdf"><a href="https://people.math.osu.edu/wei.863/Papers/The weak orthogonality between generalized Mobius functions and bounded sequences.pdf">pdf</a></li>
 
 
@@ -160,13 +160,13 @@
   <li class="title"><span class="title">Generalizations of the Erd&#337s-Kac Theorem and the Prime Number Theorem</span> (with Biao Wang, Pan Yan and Shaoyun Yi) Submitted. (2022)</li>
 
 
-
-  <li class="title"><span class="title">Linear Relations of Siegel Poincare Series and Nonvanshing of the Central Value of Spinor L-functions.</span>  Accepted. (2021)</li>
-  <li class="pdf"><a href="https://people.math.osu.edu/wei.863/Papers/Linear Relations of Siegel Poincare Series and Nonvanshing of the Central Value of Spinor L-functions.pdf">pdf</a></li>
-
-
-  <li class="title"><span class="title">Sums of k-th Powers and Fourier Coefficients of Cusp forms.</span> Submitted. (2021)</li>
+  <li class="title"><span class="title">Sums of k-th Powers and Fourier Coefficients of Cusp forms.</span> Ramanujan J. (2023)</li>
   <li class="pdf"><a href="https://people.math.osu.edu/wei.863/Papers/Sums of k-th Powers and Fourier Coefficients of Cusp forms.pdf">pdf</a></li>
+
+  <li class="title"><span class="title">Linear Relations of Siegel Poincare Series and Nonvanshing of the Central Value of Spinor L-functions.</span>  J. Théor. Nombres Bordeaux. (2022)</li> [<a href="https://arxiv.org/pdf/2110.06254.pdf" style="text-decoration: none">arXiv</a>]
+
+
+
 
 
 
