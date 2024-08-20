@@ -165,11 +165,6 @@
   [<a href="https://arxiv.org/pdf/2308.11114.pdf" style="text-decoration: none">arXiv</a>]
 
 
-  
-
-  <li class="title"><span class="title">The zero density theorem for the Rankin-Selberg L-function and its applications</span>  (2022)</li>
-  [<a href="https://arxiv.org/pdf/2209.03462.pdf" style="text-decoration: none">arXiv</a>]
-
   <li class="title"><span class="title">Generalizations of the Erd&#337s-Kac Theorem and the Prime Number Theorem</span> (with Biao Wang, Pan Yan and Shaoyun Yi) Submitted. (2022)</li>
  
 
@@ -180,13 +175,15 @@
   [<a href="https://arxiv.org/pdf/2110.06254.pdf" style="text-decoration: none">arXiv</a>]
 
 
-
-
-
-
 </ul>
 
+<h3><b>Notes </b></h3>
+<ul class="ul1">
 
+<li class="title"><span class="title">The zero density theorem for the Rankin-Selberg L-function and its applications</span>  (2022)</li>
+  [<a href="https://arxiv.org/pdf/2209.03462.pdf" style="text-decoration: none">arXiv</a>]
+
+</ul>
 
 <hr />
 
