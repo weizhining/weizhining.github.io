@@ -51,7 +51,7 @@
   [<a href="https://arxiv.org/pdf/2308.11114.pdf" style="text-decoration: none">arXiv</a>]
 
 
-  <li class="title"><span class="title">Generalizations of the Erd&#337s-Kac Theorem and the Prime Number Theorem</span> (with Biao Wang, Pan Yan and Shaoyun Yi) To appear in Communications in Mathematics and Statistics. (2022)</li>
+  <li class="title"><span class="title">Generalizations of the Erd&#337s-Kac Theorem and the Prime Number Theorem</span> (with Biao Wang, Pan Yan and Shaoyun Yi) To appear in Communications in Mathematics and Statistics. (2023)</li>
  [<a href="https://arxiv.org/pdf/2303.05803.pdf" style="text-decoration: none">arXiv</a>]
 
   <li class="title"><span class="title">Sums of k-th Powers and Fourier Coefficients of Cusp forms.</span> Ramanujan J. (2023)</li>
