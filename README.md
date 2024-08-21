@@ -83,7 +83,7 @@
 
     <li class="instructor">In Spring 2024, I was a lecture for Math 90 Single Variable Calculus, Part I and Math 100 Single Variable Calculus, Part II.</li>
 
-    <li class="instructor">In Fall 2023, I was a lecture for <a href="https://math.osu.edu/courses/2153"> Math 200</a> Multivariable Calculus (Physics/Engineering).</li>
+    <li class="instructor">In Fall 2023, I was a lecture for Math 200</a> Multivariable Calculus (Physics/Engineering).</li>
   
 </ul>
 
