@@ -8,14 +8,14 @@
 
  <tbody>
         
-     <tr><td colspan="2" valign="middle" class="td3"><p class="p2"><span class="s2">Zhining Wei</span></p></td></tr>
-  
-     <tr><td valign="middle" class="td4"><p class="p3"><span class="s2">I am currently a Tamarkin Assistant Professor at <a href="http://www.brown.edu/">Brown University</a> and  my mentor is Professor <a href="https://www.brown.edu/academics/math/people/jeffrey-hoffstein">Jeffrey Hoffstein</a>. In May 2023, I received my PhD under the supervision of Professor <a href="https://people.math.osu.edu/luo.43/">Wenzhi Luo</a> from <a href="https://www.osu.edu/">The Ohio State University</a>.</span></p></td></tr> 
+      <tr><td colspan="2" valign="middle" class="td3"><p class="p2"><span class="s2">Zhining Wei</span></p></td></tr>
 
-     <tr><td valign="middle" class="td4"><p class="p3"><span class="s2">Office: Kassar House 014</span></p></td></tr>
-     <tr><td valign="middle" class="td4"><p class="p3"><span class="s2">Email: zhining_wei@brown.edu</span></p></td></tr>
-    
-     <tr><td valign="middle" class="td4"><p class="p3"><span class="s2">Here is my <a href="https://weizhining.github.io/CurriculumVitaeZhiningWei2024.pdf">CV</a>. </span></p></td></tr>
+ <tr><td valign="middle" class="td4"><p class="p3"><span class="s2">I am currently a Tamarkin Assistant Professor at <a href="http://www.brown.edu/">Brown University</a> and  my mentor is Professor <a href="https://www.brown.edu/academics/math/people/jeffrey-hoffstein">Jeffrey Hoffstein</a>. In May 2023, I received my PhD under the supervision of Professor <a href="https://people.math.osu.edu/luo.43/">Wenzhi Luo</a> from <a href="https://www.osu.edu/">The Ohio State University</a>.</span></p></td></tr> 
+
+ <tr><td valign="middle" class="td4"><p class="p3"><span class="s2">Office: Kassar House 014</span></p></td></tr>
+ <tr><td valign="middle" class="td4"><p class="p3"><span class="s2">Email: zhining_wei@brown.edu</span></p></td></tr>
+
+ <tr><td valign="middle" class="td4"><p class="p3"><span class="s2">Here is my <a href="https://weizhining.github.io/CurriculumVitaeZhiningWei2024.pdf">CV</a>. </span></p></td></tr>
 
 </tbody>
        
