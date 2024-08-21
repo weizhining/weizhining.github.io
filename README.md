@@ -76,10 +76,21 @@
 
 <h3><b>Teaching Experience</b></h3>
 
+
+<h4>As a lecture</h4>
+
+<ul class="ul1">
+
+    <li class="instructor">In Spring 2024, I was a lecture for Math 90 Single Variable Calculus, Part I and Math 100 Single Variable Calculus, Part II.</li>
+
+    <li class="instructor">In Fall 2023, I was a lecture for <a href="https://math.osu.edu/courses/2153"> Math 200</a> Multivariable Calculus (Physics/Engineering).</li>
+  
+</ul>
+
 <h4>As a recitation instructor</h4>
 
 <ul class="ul1">
-  <li class="instructor">In Fall 2021, I am a TA for <a href="https://math.osu.edu/courses/2153"> Math 2153</a> Calculus III.</li>
+  <li class="instructor">In Fall 2021, I was a TA for <a href="https://math.osu.edu/courses/2153"> Math 2153</a> Calculus III.</li>
 
   <li class="instructor">In Spring 2021, I was a TA for <a href="https://math.osu.edu/courses/1172"> Math 1172</a> Engineering Mathematics A.</li>
 
