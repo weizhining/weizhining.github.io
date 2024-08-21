@@ -76,13 +76,13 @@
 
 <h3><b>Teaching Experience</b></h3>
 
-<h4>As a lecture</h4>
+<h4>As a lecturer</h4>
 
 <ul class="ul1">
 
-<li>In Spring 2024, I was a lecture for Math 90 Single Variable Calculus, Part I and Math 100 Single Variable Calculus, Part II.</li>
+<li>In Spring 2024, I was a lecturer for Math 90 Single Variable Calculus, Part I and Math 100 Single Variable Calculus, Part II.</li>
 
-<li>In Fall 2023, I was a lecture for Math 200</a> Multivariable Calculus (Physics or Engineering).</li>
+<li>In Fall 2023, I was a lecturer for Math 200</a> Multivariable Calculus (Physics or Engineering).</li>
 
 </ul>
 
