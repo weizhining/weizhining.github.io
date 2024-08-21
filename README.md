@@ -90,17 +90,17 @@
 <h4>As a recitation instructor</h4>
 
 <ul class="ul1">
-  <li class="instructor">In Fall 2021, I was a TA for <a href="https://math.osu.edu/courses/2153"> Math 2153</a> Calculus III.</li>
+  <li>In Fall 2021, I was a TA for <a href="https://math.osu.edu/courses/2153"> Math 2153</a> Calculus III.</li>
 
-  <li class="instructor">In Spring 2021, I was a TA for <a href="https://math.osu.edu/courses/1172"> Math 1172</a> Engineering Mathematics A.</li>
+  <li>In Spring 2021, I was a TA for <a href="https://math.osu.edu/courses/1172"> Math 1172</a> Engineering Mathematics A.</li>
 
-  <li class="instructor">In Fall 2020, I was a TA for <a href="https://math.osu.edu/courses/1151"> Math 1151</a> Calculus I.</li>
+  <li>In Fall 2020, I was a TA for <a href="https://math.osu.edu/courses/1151"> Math 1151</a> Calculus I.</li>
 
-  <li class="instructor">In Fall 2019, I was a TA for <a href="https://math.osu.edu/courses/2153"> Math 2153</a> Calculus III.</li>
+  <li>In Fall 2019, I was a TA for <a href="https://math.osu.edu/courses/2153"> Math 2153</a> Calculus III.</li>
 
-  <li class="instructor">In Spring 2019, I was a TA for <a href="https://math.osu.edu/courses/1172"> Math 1172</a> Engineering Mathematics A.</li>
+  <li>In Spring 2019, I was a TA for <a href="https://math.osu.edu/courses/1172"> Math 1172</a> Engineering Mathematics A.</li>
 
-  <li class="instructor">In Fall 2018, I was a TA for <a href="https://math.osu.edu/courses/1151"> Math 1151</a> Calculus I.</li>
+  <li>In Fall 2018, I was a TA for <a href="https://math.osu.edu/courses/1151"> Math 1151</a> Calculus I.</li>
 
 </ul>
 
