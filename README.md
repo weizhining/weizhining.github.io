@@ -83,6 +83,8 @@
 
 <ul class="ul1">
 
+<li>In Fall 2024, I am a lecturer for <a href="https://weizhining.github.io/Teaching/math420/math420.html" style="text-decoration: none">Math 420</a>a Introduction to Number Theory and Math 520 Linear Algebra.</li>
+
 <li>In Spring 2024, I was a lecturer for Math 90 Single Variable Calculus, Part I and Math 100 Single Variable Calculus, Part II.</li>
 
 <li>In Fall 2023, I was a lecturer for Math 200 Multivariable Calculus (Physics/Engineering).</li>
