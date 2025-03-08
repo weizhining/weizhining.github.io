@@ -73,11 +73,12 @@
 <h3><b>Notes </b></h3>
 <ul class="ul1">
 
+<li class="title"><span class="title">A note on a classical relative trace formula</span>  (2025)</li>
+  [<a href="https://arxiv.org/abs/2502.18593" style="text-decoration: none">arXiv</a>]
+
 <li class="title"><span class="title">The zero density theorem for the Rankin-Selberg L-function and its applications</span>  (2022)</li>
   [<a href="https://arxiv.org/abs/2209.03462" style="text-decoration: none">arXiv</a>]
 
-<li class="title"><span class="title">A note on a classical relative trace formula</span>  (2025)</li>
-  [<a href="https://arxiv.org/abs/2502.18593" style="text-decoration: none">arXiv</a>]
 
 </ul>
 
