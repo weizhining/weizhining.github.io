@@ -94,7 +94,7 @@
 
 <ul class="ul1">
 
-<li>In Spring 2025, I am a lecturer for <a href="https://weizhining.github.io/Teaching/math1560/math1560.html" style="text-decoration: none">Math 1560</a> Number Theory.</li>
+<li>In Spring 2025, I am a lecturer forMath 1560 Number Theory.</li>
 
 <li>In Fall 2024, I am a lecturer for Math 420 Introduction to Number Theory and Math 520 Linear Algebra.</li>
 
