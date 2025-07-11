@@ -15,7 +15,7 @@
  <tr><td valign="middle" class="td4"><p class="p3"><span class="s2">Office: Kassar House 014</span></p></td></tr>
  <tr><td valign="middle" class="td4"><p class="p3"><span class="s2">Email: zhining_wei@brown.edu</span></p></td></tr>
 
- <tr><td valign="middle" class="td4"><p class="p3"><span class="s2">Here is my <a href="https://weizhining.github.io/CurriculumVitaeZhiningWei2024.pdf">CV</a>. </span></p></td></tr>
+ <tr><td valign="middle" class="td4"><p class="p3"><span class="s2">Here is my <a href="https://weizhining.github.io/CurriculumVitaeZhiningWei072025.pdf">CV</a>. </span></p></td></tr>
 
 </tbody>
        
