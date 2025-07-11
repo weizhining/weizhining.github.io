@@ -94,7 +94,7 @@
 
 <ul class="ul1">
 
-<li>In Spring 2025, I am a lecturer forMath 1560 Number Theory.</li>
+<li>In Spring 2025, I am a lecturer for Math 1560 Number Theory.</li>
 
 <li>In Fall 2024, I am a lecturer for Math 420 Introduction to Number Theory and Math 520 Linear Algebra.</li>
 
@@ -108,17 +108,17 @@
 <h4>As a recitation instructor</h4>
 
 <ul class="ul1">
-  <li>In Fall 2021, I was a TA for <a href="https://math.osu.edu/courses/2153"> Math 2153</a> Calculus III.</li>
+  <li>In Fall 2021, I was a TA for Math 2153 Calculus III.</li>
 
-  <li>In Spring 2021, I was a TA for <a href="https://math.osu.edu/courses/1172"> Math 1172</a> Engineering Mathematics A.</li>
+  <li>In Spring 2021, I was a TA for Math 1172 Engineering Mathematics A.</li>
 
-  <li>In Fall 2020, I was a TA for <a href="https://math.osu.edu/courses/1151"> Math 1151</a> Calculus I.</li>
+  <li>In Fall 2020, I was a TA for Math 1151 Calculus I.</li>
 
-  <li>In Fall 2019, I was a TA for <a href="https://math.osu.edu/courses/2153"> Math 2153</a> Calculus III.</li>
+  <li>In Fall 2019, I was a TA for Math 2153 Calculus III.</li>
 
-  <li>In Spring 2019, I was a TA for <a href="https://math.osu.edu/courses/1172"> Math 1172</a> Engineering Mathematics A.</li>
+  <li>In Spring 2019, I was a TA for Math 1172 Engineering Mathematics A.</li>
 
-  <li>In Fall 2018, I was a TA for <a href="https://math.osu.edu/courses/1151"> Math 1151</a> Calculus I.</li>
+  <li>In Fall 2018, I was a TA for Math 1151 Calculus I.</li>
 
 </ul>
 
