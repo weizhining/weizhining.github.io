@@ -15,7 +15,7 @@
  <tr><td valign="middle" class="td4"><p class="p3"><span class="s2">Office: Kassar House 014</span></p></td></tr>
  <tr><td valign="middle" class="td4"><p class="p3"><span class="s2">Email: zhining_wei@brown.edu</span></p></td></tr>
 
- <tr><td valign="middle" class="td4"><p class="p3"><span class="s2">Here is my <a href="https://weizhining.github.io/CurriculumVitaeZhiningWei082025.pdf">CV</a>. </span></p></td></tr>
+ <tr><td valign="middle" class="td4"><p class="p3"><span class="s2">Here is my <a href="https://weizhining.github.io/CurriculumVitaeZhiningWei122025.pdf">CV</a>. </span></p></td></tr>
 
 </tbody>
        
@@ -37,6 +37,9 @@
 
 <h3><b>Preprints </b></h3>
 <ul class="ul1">
+
+<li class="title"><span class="title">Second Moment of Central Values of Half-Integral Weight Modular Forms and Subconvexity</span>  (With Steven Creech, Henry Twiss and Peter Zenz) . (2025)</li>
+   [<a href="https://arxiv.org/abs/2512.20483" style="text-decoration: none">arXiv</a>]
 
 <li class="title"><span class="title">Low-lying zeros of Hilbert modular L-functions weighted by powers of central L-values</span>  (With Liyang Yang and Shifan Zhao) . (2025)</li>
    [<a href="https://arxiv.org/abs/2508.18469" style="text-decoration: none">arXiv</a>]
