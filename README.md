@@ -100,6 +100,8 @@
 
 <ul class="ul1">
 
+<li>In Spring 2026, I was a lecturer for Math 420 Introduction to Number Theory and Math 520 Linear Algebra.</li>
+
 <li>In Fall 2025, I am a lecturer for Math 180 Multivariable Calculus.</li>
 
 <li>In Spring 2025, I was a lecturer for Math 1560 Number Theory.</li>
