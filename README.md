@@ -100,7 +100,7 @@
 
 <ul class="ul1">
 
-<li>In Spring 2026, I am a lecturer for Math 420 Introduction to Number Theory and Math 520 Linear Algebra.</li>
+<li>In Spring 2026, I am a lecturer for Math 420 Introduction to Number Theory (<a href="https://weizhining.github.io/Teaching/math420sp26/math420.html">course page</a>) and Math 520 Linear Algebra.</li>
 
 <li>In Fall 2025, I was a lecturer for Math 180 Multivariable Calculus.</li>
 
