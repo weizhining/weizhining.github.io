@@ -38,7 +38,7 @@
 <h3><b>Preprints </b></h3>
 <ul class="ul1">
 
-<li class="title"><span class="title">First Moment of derivatives of L-functions in a nonlinear family</span>  (With Tinghao Huang) . (2026)</li>
+<li class="title"><span class="title">First moment of derivatives of L-functions in a nonlinear family</span>  (With Tinghao Huang) . (2026)</li>
    [<a href="https://arxiv.org/abs/2607.09056" style="text-decoration: none">arXiv</a>]
 
 <li class="title"><span class="title">Second Moment of Central Values of Half-Integral Weight Modular Forms and Subconvexity</span>  (With Steven Creech, Henry Twiss and Peter Zenz) . (2025)</li>
