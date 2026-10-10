@@ -10,7 +10,7 @@
         
       <tr><td colspan="2" valign="middle" class="td3"><p class="p2"><span class="s2">Zhining Wei</span></p></td></tr>
 
- <tr><td valign="middle" class="td4"><p class="p3"><span class="s2">I am currently a Tamarkin Assistant Professor at <a href="http://www.brown.edu/">Brown University</a> and  my mentor is Professor <a href="https://www.brown.edu/academics/math/people/jeffrey-hoffstein">Jeffrey Hoffstein</a>. In May 2023, I received my PhD under the supervision of Professor <a href="https://people.math.osu.edu/luo.43/">Wenzhi Luo</a> from <a href="https://www.osu.edu/">The Ohio State University</a>.</span></p></td></tr> 
+ <tr><td valign="middle" class="td4"><p class="p3"><span class="s2">I am an Assistant Professor at Xi'an Jiaotong University. Previously, I was a Tamarkin Assistant Professor at <a href="http://www.brown.edu/">Brown University</a> and  my mentor is Professor <a href="https://www.brown.edu/academics/math/people/jeffrey-hoffstein">Jeffrey Hoffstein</a>. In May 2023, I received my PhD under the supervision of Professor <a href="https://people.math.osu.edu/luo.43/">Wenzhi Luo</a> from <a href="https://www.osu.edu/">The Ohio State University</a>.</span></p></td></tr> 
 
  <tr><td valign="middle" class="td4"><p class="p3"><span class="s2">Office: Kassar House 014</span></p></td></tr>
  <tr><td valign="middle" class="td4"><p class="p3"><span class="s2">Email: zhining_wei@brown.edu</span></p></td></tr>
@@ -38,6 +38,9 @@
 <h3><b>Preprints </b></h3>
 <ul class="ul1">
 
+<li class="title"><span class="title">First Moment of derivatives of L-functions in a nonlinear family</span>  (With Tinghao Huang) . (2026)</li>
+   [<a href="https://arxiv.org/abs/2607.09056" style="text-decoration: none">arXiv</a>]
+
 <li class="title"><span class="title">Second Moment of Central Values of Half-Integral Weight Modular Forms and Subconvexity</span>  (With Steven Creech, Henry Twiss and Peter Zenz) . (2025)</li>
    [<a href="https://arxiv.org/abs/2512.20483" style="text-decoration: none">arXiv</a>]
 
@@ -50,11 +53,6 @@
  <li class="title"><span class="title">Relative Trace Formula and Uniform Non-vanishing of Central L-values of Hilbert Modular Forms</span>  (With Liyang Yang and Shifan Zhao) . (2024)</li>
    [<a href="https://arxiv.org/abs/2410.09593" style="text-decoration: none">arXiv</a>]
 
- <li class="title"><span class="title">Some remarks on strong multiplicity one for paramodular forms </span>  (With Xiyuan Wang, Pan Yan and Shaoyun Yi) Submitted. (2023)</li>
-   [<a href="https://arxiv.org/abs/2310.17144" style="text-decoration: none">arXiv</a>]
-  
-<li class="title"><span class="title">On distinguishing Siegel cusp forms of degree two</span>  (With Shaoyun Yi) Submitted. (2022)</li>
-  [<a href="https://arxiv.org/abs/2207.13234" style="text-decoration: none">arXiv</a>]
 
 </ul>
 
@@ -62,12 +60,18 @@
 <h3><b>Publications </b></h3>
 <ul class="ul1">
 
+ <li class="title"><span class="title">Some remarks on strong multiplicity one for paramodular forms </span>  (With Xiyuan Wang, Pan Yan and Shaoyun Yi) Mathematika. (2026)</li>
+   [<a href="https://arxiv.org/abs/2310.17144" style="text-decoration: none">arXiv</a>]
+  
+<li class="title"><span class="title">On distinguishing Siegel cusp forms of degree two</span>  (With Shaoyun Yi) To appear in Int. J. Number Theory. (2026)</li>
+  [<a href="https://arxiv.org/abs/2207.13234" style="text-decoration: none">arXiv</a>]
+
 
 <li class="title"><span class="title">On Mobius functions from automorphic forms and a generalized Sarnak's conjecture</span>  (With Shifan Zhao) Q. J. Math. (2024)</li>
   [<a href="https://arxiv.org/abs/2308.11114" style="text-decoration: none">arXiv</a>]
 
 
-  <li class="title"><span class="title">Generalizations of the Erd&#337s-Kac Theorem and the Prime Number Theorem</span> (with Biao Wang, Pan Yan and Shaoyun Yi) To appear in Communications in Mathematics and Statistics. (2023)</li>
+  <li class="title"><span class="title">Generalizations of the Erd&#337s-Kac Theorem and the Prime Number Theorem</span> (with Biao Wang, Pan Yan and Shaoyun Yi)  Communications in Mathematics and Statistics. (2023)</li>
  [<a href="https://arxiv.org/abs/2303.05803" style="text-decoration: none">arXiv</a>]
 
   <li class="title"><span class="title">Sums of k-th Powers and Fourier Coefficients of Cusp forms.</span> Ramanujan J. (2023)</li>
@@ -94,13 +98,16 @@
 <hr />
 
 
+<!--
+
+
 <h3><b>Teaching Experience</b></h3>
 
 <h4>As a lecturer</h4>
 
 <ul class="ul1">
 
-<li>In Spring 2026, I am a lecturer for Math 420 Introduction to Number Theory (<a href="https://weizhining.github.io/Teaching/math420sp26/math420.html">course page</a>) and Math 520 Linear Algebra.</li>
+<li>In Spring 2026, I am a lecturer for Math 420 Introduction to Number Theory and Math 520 Linear Algebra.</li>
 
 <li>In Fall 2025, I was a lecturer for Math 180 Multivariable Calculus.</li>
 
@@ -135,8 +142,11 @@
 
 <hr />
 
+-->
+
 <h2>Links</h2>
 <ul>
+<li><a href="https://math.xjtu.edu.cn/">XJTU School of Mathematics and Statistics</a></li> 
 <li><a href="https://www.brown.edu/academics/math/">Brown Math Department</a></li>
 <li><a href="https://math.osu.edu/">OSU Math Department</a></li>
 <li><a href="https://mathscinet.ams.org/mathscinet/publications-search">MathSciNet</a></li>
